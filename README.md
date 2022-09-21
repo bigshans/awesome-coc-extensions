@@ -11,14 +11,13 @@
    * [Lint](#lint)
    * [Application](#application)
    * [SDK](#sdk)
-   * [Code Runner](#code-runner)
    * [Formatter](#formatter)
    * [User Experience](#user-experience)
    * [Deprecated](#deprecated)
 * [License](#license)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: aerian, at: 2022年 09月 21日 星期三 12:49:13 CST -->
+<!-- Added by: aerian, at: 2022年 09月 21日 星期三 12:56:08 CST -->
 
 <!--te-->
 
@@ -141,16 +140,11 @@
 - [coc-git](https://github.com/neoclide/coc-git) provides git integration.
 - [coc-gist](https://github.com/voldikss/coc-gist) gist management
 - [coc-discord](https://github.com/amiralies/coc-discord) discord rich presence for coc.nvim
-- [coc-floaterm](https://github.com/voldikss/coc-floaterm) for [vim-floaterm](https://github.com/voldikss/vim-floaterm) integration
 
 ## SDK
 
 - [coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc) fully customizable discord rpc integration with support for over 130+ of the most popular languages
 - [coc-webview](https://github.com/weirongxu/coc-webview) Using an external browser to support the webview.
-
-## Code Runner
-
-- [coc-tasks](https://github.com/voldikss/coc-tasks) for [asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) integration
 
 ## Formatter
 
@@ -167,6 +161,8 @@
 ## Deprecated
 
 - [coc-metals](https://github.com/scalameta/coc-metals) for Scala using [`Metals`](http://scalameta.org/metals/), but not support the version being 0.11.2.
+- [coc-floaterm](https://github.com/voldikss/coc-floaterm) for [vim-floaterm](https://github.com/voldikss/vim-floaterm) integration. (Archived)
+- [coc-tasks](https://github.com/voldikss/coc-tasks) for [asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) integration
 
 # License
 
