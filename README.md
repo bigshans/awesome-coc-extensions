@@ -14,10 +14,11 @@
    * [Code Runner](#code-runner)
    * [Formatter](#formatter)
    * [User Experience](#user-experience)
+   * [Deprecated](#deprecated)
 * [License](#license)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: aerian, at: 2022年 08月 02日 星期二 18:06:22 CST -->
+<!-- Added by: aerian, at: 2022年 09月 21日 星期三 12:49:13 CST -->
 
 <!--te-->
 
@@ -66,7 +67,6 @@
 - [coc-ltex](https://valentjn.github.io/ltex/vscode-ltex/installation-usage-coc-ltex.html) grammar/spell checker
 - [coc-markdown-preview-enhanced](https://github.com/weirongxu/coc-markdown-preview-enhanced) [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/) for coc.nvim
 - [coc-markmap](https://github.com/gera2ld/coc-markmap) [markdown + mindmap](https://markmap.js.org/) for coc.nvim
-- [coc-metals](https://github.com/scalameta/coc-metals) for Scala using [`Metals`](http://scalameta.org/metals/)
 - [coc-nginx](https://github.com/yaegassy/coc-nginx) for `nginx`, use [nginx-language-server](https://github.com/pappasam/nginx-language-server) and [nginxfmt](https://pypi.org/project/nginxfmt/) (scoped packages: `@yaegassy/coc-nginx`)
 - [coc-omnisharp](https://github.com/yatli/coc-omnisharp) for `csharp` and `visualbasic`.
 - [coc-perl](https://github.com/ryuta69/coc-perl) for `perl`.
@@ -163,6 +163,10 @@
 - [coc-translator](https://github.com/voldikss/coc-translator) language transaction extension
 - [coc-yank](https://github.com/neoclide/coc-yank) provides yank highlights & history.
 - [coc-highlight](https://github.com/neoclide/coc-highlight) provides default document symbol highlighting and color support.
+
+## Deprecated
+
+- [coc-metals](https://github.com/scalameta/coc-metals) for Scala using [`Metals`](http://scalameta.org/metals/), but not support the version being 0.11.2.
 
 # License
 
